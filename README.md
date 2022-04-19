@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @AakaShVSh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <h1 align="center">Hi 👋, I'm Aakash Vishwakarma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -12,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashvsh" alt="aakashvsh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aakash vishwakarma" target="blank"><img src="https://img.shields.io/twitter/follow/aakash vishwakarma?logo=twitter&style=for-the-badge" alt="aakash vishwakarma" /></a> </p>
+
+- 👋 Hi, I’m @AakaShVSh
 
 - 🌱 I’m currently learning **react**
 
