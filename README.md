@@ -1,5 +1,6 @@
 Hi 👋, I'm Aakash Vishwakarma
 A passionate frontend developer from India<br/>
+I have done My 12th and after that, I always wanted to know how technical stuff works, so I decided to take a degree in the IT field but because of some reason I was unable to take IT field but then I heard about Masai school through an advertisement, who teaches full-stack web development course in 6 months then I decided to join Masai school and now I have done lots of projects, assignment in this few months and waiting for more new challenges.<br/>
 ![image](https://camo.githubusercontent.com/24eeb6d6622812ec39091621f4a9aa5a6b5cdf62c760a7ab7de18a995725bf32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48746d6c2d48544d4c2d62726f776e)
 ![image](https://camo.githubusercontent.com/c173e995b859dfcee97b51f1a9469ce034a4b92c43aea7bf094e1aa3411fef9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4373732d4353532d7768697465)
 ![image](https://camo.githubusercontent.com/2a071e7bb23dfc64968fe901d49585785a2ef43e960c67138bead1728330bcdb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a532d4a6176617363726970742d726564)
