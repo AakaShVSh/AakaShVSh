@@ -21,7 +21,7 @@ I have done My 12th and after that, I always wanted to know how technical stuff 
 
 - 🌱 I’m currently learning **react**
 
-- 🥅 2022 Goals : [Learning new things and contribute more](Learning new things and contribute more)
+- 🥅 2022 Goals : [Learning new things and contribute more]
 
 - 💬 Ask me about **React, JavaScript, Backend, frontend**
 
